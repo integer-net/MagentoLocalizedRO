@@ -114,9 +114,6 @@
             <default_language>ro_RO</default_language>
             <available_languages>
                 <en_US />
-                <de_DE />
-                <fr_FR />
-                <it_IT />
             </available_languages>
             <country>RO</country>
             <currency>EUR</currency>
